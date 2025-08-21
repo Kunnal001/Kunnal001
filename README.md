@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Kunal Chauhan 👋
 
-<!--
-**Kunnal001/Kunnal001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Scientist | 💻 Python, C++ , Java | 📊 Data Structures & Algorithms  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me  
+- 🎯 Focused on building a career in **Software Development & Problem Solving**  
+- 🖥 Skilled in **Java, Python, C++**  
+- 📚 Currently learning **Operating Systems, DBMS & OOPs**  
+- 🔬 Exploring **real-world projects** through hands-on coding  
+- ❤️ Passionate about solving problems with **efficient algorithms**  
+
+---
+
+## 🛠️ Tools & Technologies I Use  
+- **Languages:** Python, C++, Java 
+- **Libraries & Frameworks:** Pandas, NumPy, React (if any)  
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
+
+---
+
+## 🤝 Let’s Connect  
+- 📧 Email: [your-email@gmail.com](ckunnal86@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/kunnal-chauhan-315036330/)  
+
+
+---
+
+📌 *On a journey to become a better developer — one project at a time.*  
